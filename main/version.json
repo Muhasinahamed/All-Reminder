@@ -1,0 +1,9 @@
+{
+  "version": "1.0.5",
+  "build_number": 4,
+  "app_name": "All Reminder",
+  "package_name": "in.inhomex.all_reminder",
+  "force_update": false,
+  "download_url": "https://play.google.com/store/apps/details?id=com.example.all_reminder",
+  "release_notes": "Official Production Release with custom ringtone picker, dark-mode glassmorphic UI, and daily lifestyle routine tracking."
+}
